@@ -1,0 +1,10 @@
+# Ignore configuration files that may contain sensitive information.
+
+# Ignore paths that contain generated content.
+node_modules/
+data/
+npm-debug.log
+# Ignore default text files
+
+# Ignore everything but the "sites" folder ( for non core developer )
+
